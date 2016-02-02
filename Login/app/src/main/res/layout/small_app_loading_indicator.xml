@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/app_small_circular_loading_indicator_radius"
+    android:layout_height="@dimen/app_small_circular_loading_indicator_radius"
+    android:orientation="vertical">
+
+    <include layout="@layout/app_circular_progress_bar" />
+</LinearLayout>
